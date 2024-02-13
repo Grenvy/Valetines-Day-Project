@@ -31,7 +31,7 @@
     position: absolute;
      bottom:0%;
      right: 43%;
-    
+    color: black;
 }
 #No{
     background-color: rgb(235, 95, 95);
@@ -40,6 +40,6 @@
     font-size: 20px;
     position: absolute;
      bottom: 0%;
-     right: -15%;
-    
+     right: -18%;
+    color: black;
 }
