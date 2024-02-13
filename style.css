@@ -25,7 +25,7 @@
 
 #Yes{
     background-color: rgb(210, 255, 143);
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Comic Sans MS";
     padding: 50px 100px;
     font-size: 20px;
     position: absolute;
@@ -35,11 +35,11 @@
 }
 #No{
     background-color: rgb(235, 95, 95);
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Comic Sans MS";
     padding: 50px 100px;
     font-size: 20px;
     position: absolute;
      bottom: 0%;
-     right: -10%;
+     right: -20%;
     
 }
