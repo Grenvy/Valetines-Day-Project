@@ -1,0 +1,45 @@
+.bob{
+    background: fixed;
+    background-color:rgb(255, 255, 255);
+    font-family:'Dekko';
+
+}
+
+#title{
+    text-align: center;
+    font-weight: 100px;
+    font-family:"Trebuchet MS", "Lucida Grande", 
+    "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 100px;
+}
+
+#jimmy{
+    font-size: 100px;
+    text-align: center;
+    position: absolute;
+    bottom: 70%;
+    right: 30%;
+    color: aliceblue;
+   
+}
+
+#Yes{
+    background-color: rgb(210, 255, 143);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    padding: 50px 100px;
+    font-size: 75px;
+    position: absolute;
+     bottom: 55%;
+     right: 55%;
+    
+}
+#No{
+    background-color: rgb(235, 95, 95);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    padding: 50px 100px;
+    font-size: 75px;
+    position: absolute;
+     bottom: 55%;
+     right: 25%;
+    
+}
