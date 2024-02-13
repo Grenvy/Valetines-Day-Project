@@ -6,7 +6,7 @@ function YesButton() {
 
     var img = document.getElementById("billy");
     img.src='https://i.pinimg.com/564x/fd/b3/32/fdb332b722ea24c4b29f27ca6ed8e8f8.jpg';    
-    document.getElementById("jimmy").innerHTML= "YAYYYYYY!!!!!";
+    document.getElementById("jimmy").innerHTML= "YAY!";
     document.getElementById("title").innerHTML = " ";
     
     document.getElementById("No").innerHTML = " ";
